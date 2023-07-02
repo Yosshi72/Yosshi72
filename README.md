@@ -1,8 +1,8 @@
 <p align="left">
   <a href="https://github.com/Yosshi72/">
-    <img src="https://komarev.com/ghpvc/?username=Yosshi72" alt="harusaku" />
+    <img src="https://komarev.com/ghpvc/?username=Yosshi72" alt="Yosshi72" />
   </a>
-  <a href="https://github.com/Yosshi72">
+  <a href="https://github.com/Yosshi72/">
     <img height="20" src="https://img.shields.io/github/followers/Yosshi72?label=follow&logo=github&style=flat" />
   </a>
 </p>
