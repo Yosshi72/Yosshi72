@@ -1,10 +1,14 @@
+<p align="left">
+  <a href="https://github.com/Yosshi72/">
+    <img src="https://komarev.com/ghpvc/?username=Yosshi72" alt="harusaku" />
+  </a>
+  <a href="https://github.com/Yosshi72">
+    <img height="20" src="https://img.shields.io/github/followers/Yosshi72?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
-# Theme Preview
-
-Here are all cards with themes.
-| :bell: | If only show Top Languages card here, then you maybe forgot to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=harusaku&theme=discord&rank=-C,-B)
 
 ## [Details](./apprentice/README.md)
 [![](https://raw.githubusercontent.com/Yosshi72/yoshihiko/main/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
