@@ -8,7 +8,7 @@
 </p>
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Yosshi72&theme=discord&rank=-C,-B)
+![trophy](https://github-profile-trophy.vercel.app/?username=Yosshi72&theme=discord)
 
 ## [Details](./apprentice/README.md)
 [![](https://raw.githubusercontent.com/Yosshi72/yoshihiko/main/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
